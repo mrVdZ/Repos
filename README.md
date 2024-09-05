@@ -11,3 +11,10 @@ This is where you can find all of my submitted homework.
 
 ### Examples Files
 📂
+
+
+## ToDo
+- [ ] Install Processing
+- [ ] Example Processing project in Repo
+- [ ] markdown (.md) block diagram
+
