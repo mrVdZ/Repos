@@ -14,7 +14,7 @@ This is where you can find all of my submitted homework.
 
 
 ## ToDo
-- [ ] Install Processing
+- [x] Install Processing
 - [ ] Example Processing project in Repo
 - [ ] markdown (.md) block diagram
 
